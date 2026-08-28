@@ -5,7 +5,6 @@
 </div>
 
 
-$\color{#812df5}\huge\textsf{\textbf{contacts}}$
 ![Alt text](https://github.com/user-attachments/assets/8ff53b90-1a3e-4a65-b08c-0bdf0b2be48b)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafal-Lada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:RafalLada1.0@gmail.com) 
 
