@@ -5,7 +5,7 @@
 </div>
 
 
-![Alt text](https://github.com/user-attachments/assets/8ff53b90-1a3e-4a65-b08c-0bdf0b2be48b)
+![Alt text](https://github.com/user-attachments/assets/cf510201-65fb-4b57-ac33-072c1e7a2226)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafal-Lada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:RafalLada1.0@gmail.com) 
 
 
