@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=802EF7&center=true&vCenter=true&random=true&width=435&lines=%2Fhome%2FRLsdk%2F+;video+editor;electrical+engineer;freelance+roblox+dev;computer+engineer)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=802EF7&center=true&vCenter=true&random=true&width=435&lines=%2Fhome%2FRLsdk%2F+;video+editor;electrical+engineer;freelance+roblox+dev;computer+engineer" alt="Typing SVG" />
+  </a>
+</div>
 
 
 
