@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=802EF7&center=true&vCenter=true&random=true&width=435&lines=%2Fhome%2FRLsdk%2F+;video+editor;electrical+engineer;freelance+roblox+dev;computer+engineer)](https://git.io/typing-svg)
+
+
 
 ## contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafal-Lada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:RafalLada1.0@gmail.com) 
