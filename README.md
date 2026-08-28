@@ -6,7 +6,8 @@
 
 
 
-##contacts
+$\color{#812df5}\textsf{## contacts}$
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafal-Lada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:RafalLada1.0@gmail.com) 
 
 
